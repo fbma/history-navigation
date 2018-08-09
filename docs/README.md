@@ -5,7 +5,7 @@
 ## Descripción
 
 Plugin para [Mapea](https://github.com/sigcorporativo-ja/Mapea4) desarrollado por la Consejería de Medioambiente y Ordenación del Territorio de la Junta de Andalucía. Crea un panel propio que contiene los siguientes controles:  
-* Acercarse y alejarse ![Botones](./images/zoom.png) 
+* Acercarse y alejarse <a href="#" style="cursor: pointer"><img src="./images/zoom.png"></a>
 * Zoom a la extensión del mapa ![Botones](./images/full_extent.png) 
 * Historial de navegación (anterior/posterior) ![Botones](./images/history.png) 
 * (Opcional) Selector desplegable de escala ![Botones](./images/scale_selector.png) 
